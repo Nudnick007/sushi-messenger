@@ -6,9 +6,9 @@ import React, { useState } from "react"
 import { FieldValues, SubmitHandler, useForm } from "react-hook-form";
 import axios from "axios";
 import toast from "react-hot-toast";
-import Modal from "../../Modal";
-import Button from "@/app/(site)/components/Button";
-import Input from "../Input";
+import Modal from "../Modal";
+import Button from "@/app/components/Button";
+import Input from "../inputs/Input";
 import Image from "next/image";
 import { CldUploadButton } from "next-cloudinary";
 

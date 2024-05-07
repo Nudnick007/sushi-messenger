@@ -1,5 +1,5 @@
 import React from "react"
-import EmptyState from "../components/inputs/EmptyState";
+import EmptyState from "../components/EmptyState";
 
 const Users = () => {
   return (
